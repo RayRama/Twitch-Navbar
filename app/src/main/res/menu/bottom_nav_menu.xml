@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/following"
+        android:title="@string/followingLabel"
+        android:icon="@drawable/baseline_favorite_24"
+        />
+    <item
+        android:id="@+id/discover"
+        android:title="@string/discoverLabel"
+        android:icon="@drawable/baseline_explore_24"
+
+        />
+    <item
+        android:id="@+id/browse"
+        android:title="@string/browseLabel"
+        android:icon="@drawable/baseline_content_copy_24"
+        />
+    <item
+        android:id="@+id/search"
+        android:title="@string/searchLabel"
+        android:icon="@drawable/baseline_search_24"
+        />
+</menu>

@@ -9,14 +9,19 @@
 # Inspirasi Aplikasi
 
 - Kopi Kenangan
+  <br />
   ![kopi_kenangan](screenshots/kopi_kenangan.jpg)
 - Twitch
+  <br />
   ![twitch](screenshots/twitch.jpg)
 - Gmail
+  <br />
   ![gmail](screenshots/gmail.jpg)
 - Pinterest
+  <br />
   ![pinteres](screenshots/pinterest.jpg)
 - Playstore
+  <br />
   ![playstore](screenshots/playstore.jpg)
 
 # Aplikasi yang dibuat
